@@ -1,6 +1,6 @@
 
 
-## ToDo: World Travel File Navigation
+# ToDo: World Travel File Navigation
 
 We're going to practice our command line file navigation skills by traveling around the world. Get your bags packed! We have a file structure representing the world that looks like this: 
 
@@ -31,7 +31,7 @@ cd ../../../SouthAmerica/Peru
 
 ???
 
-# Your Challenge
+## Your Challenge
 
 Write the commands for the following directory changes:
 
