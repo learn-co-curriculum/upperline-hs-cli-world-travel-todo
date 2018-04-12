@@ -2,7 +2,9 @@
 
 We're going to practice our command line file navigation skills by traveling around the world. Get your bags packed! We have a file structure representing the world that looks like this: 
 
-![Countries directory](https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree.png)
+![directories](https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree-sm.png)
+
+[https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree.png](Larger version of directories)
 
 ### Refresher
 You're going to be identifying the `cd` command to switch into different directories and travel around the geography tree. 
