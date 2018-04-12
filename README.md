@@ -4,7 +4,7 @@ We're going to practice our command line file navigation skills by traveling aro
 
 ![directories](https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree-sm.png)
 
-[https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree.png](Larger version of directories)
+[Larger version of directories](https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree.png)
 
 ### Refresher
 You're going to be identifying the `cd` command to switch into different directories and travel around the geography tree. 
