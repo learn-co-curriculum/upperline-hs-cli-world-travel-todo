@@ -1,11 +1,8 @@
-
-
 # ToDo: World Travel File Navigation
 
 We're going to practice our command line file navigation skills by traveling around the world. Get your bags packed! We have a file structure representing the world that looks like this: 
 
-![alt text](http://www.gliffy.com/go/publish/image/6025639/L.png "Countries Tree")
-[Click here for a larger version](https://camo.githubusercontent.com/508535c0e81338f8d74168b9d04b272ef487661b/687474703a2f2f7777772e676c696666792e636f6d2f676f2f7075626c6973682f696d6167652f363032353633392f4c2e706e67)
+![Countries directory](https://curriculum-content.s3.amazonaws.com/KWK/cli-world-travel-directory-tree.png)
 
 ### Refresher
 You're going to be identifying the `cd` command to switch into different directories and travel around the geography tree. 
